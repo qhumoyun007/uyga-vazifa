@@ -66,3 +66,23 @@
 # s=b/j
 # print(s)
 #13
+#a=['mercedes','bmw','chevrolet','ford','rolse-royse']
+#print(len(a))
+#14
+#a=['mercedes','bmw','chevrolet','ford','rolse-royse']
+#for i in a:
+#	b=i.upper()
+#	print(b)
+#15
+#a=['Mercedes','bmw','chevrolet','ford','rolse-royse']
+#for i in a:
+#	b=i.lower()
+#	print(b)
+#16
+#a=['mercedes','bmw','chevrolet','ford','rolse-royse']
+#b=a.append('toyota')
+#print(a)
+#17
+#a=['mercedes','bmw','chevrolet','ford','rolse-royse']
+#a.remove('bmw')
+#print(a)
